@@ -19,7 +19,8 @@ I am a **Full Stack Developer** with **3 years of experience** building software
 
 **Tools & Environment**
 - **IDEs:** Visual Studio Community & VS Code
-- **Engine:** Unity
+- **
+Engine:** Unity
 - **Version Control:** Git & GitHub
 
 ### 📊 Current Project Spotlight
@@ -29,5 +30,4 @@ I am a **Full Stack Developer** with **3 years of experience** building software
 
 ### 📫 How to reach me
 - **LinkedIn:** https://www.linkedin.com/in/miguel-correia-costa/
-- 
 ---
